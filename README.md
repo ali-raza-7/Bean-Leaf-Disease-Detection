@@ -48,4 +48,4 @@ For training I did it in two stages. First I froze all the backbone layers and o
 
 ## Project Preview
 
-![Project Preview](image/image.png)
+![Project Preview](Images/image.png)
